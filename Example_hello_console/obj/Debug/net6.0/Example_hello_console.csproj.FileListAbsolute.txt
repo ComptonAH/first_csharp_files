@@ -1,0 +1,16 @@
+D:\PythonGB\C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.exe
+D:\PythonGB\C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.deps.json
+D:\PythonGB\C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.runtimeconfig.json
+D:\PythonGB\C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.dll
+D:\PythonGB\C#\Example_hello_console\bin\Debug\net6.0\ref\Example_hello_console.dll
+D:\PythonGB\C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.pdb
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.GlobalUsings.g.cs
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.csproj.AssemblyReference.cache
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.AssemblyInfoInputs.cache
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.AssemblyInfo.cs
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.csproj.CoreCompileInputs.cache
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.dll
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\ref\Example_hello_console.dll
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.pdb
+D:\PythonGB\C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.genruntimeconfig.cache
